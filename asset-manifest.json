@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/scorpion_rpg/static/css/main.2ec21ad3.css",
+    "main.js": "/scorpion_rpg/static/js/main.1409ad8c.js",
+    "static/media/pdf.pdf": "/scorpion_rpg/static/media/pdf.96900baf6bdcd302b18b.pdf",
+    "static/media/akim.png": "/scorpion_rpg/static/media/akim.6170711a7ed4d11fcf32.png",
+    "static/media/tag.png": "/scorpion_rpg/static/media/tag.92f3306819b2620471e7.png",
+    "static/media/vip.png": "/scorpion_rpg/static/media/vip.362adabc980b6249961d.png",
+    "static/media/banda.png": "/scorpion_rpg/static/media/banda.8670942011d3111ac6e7.png",
+    "static/media/police.png": "/scorpion_rpg/static/media/police.badb4ea76f8aeb3822df.png",
+    "static/media/ministr.png": "/scorpion_rpg/static/media/ministr.920ea798e043e03ae118.png",
+    "static/media/deputat.png": "/scorpion_rpg/static/media/deputat.bca0478bbad05acf85d9.png",
+    "static/media/president.png": "/scorpion_rpg/static/media/president.23b9a986ef39b3362530.png",
+    "static/media/person.png": "/scorpion_rpg/static/media/person.e65878de63845f9addec.png",
+    "static/media/5.png": "/scorpion_rpg/static/media/5.d89b09bb302210d50dd6.png",
+    "static/media/casino.png": "/scorpion_rpg/static/media/casino.6a595126643c0b820c2c.png",
+    "static/media/mersedes.png": "/scorpion_rpg/static/media/mersedes.4693caca6a1059618836.png",
+    "static/media/chip.png": "/scorpion_rpg/static/media/chip.3cf49d957375a83a5a1d.png",
+    "static/media/3.png": "/scorpion_rpg/static/media/3.42ed15cbcaf36c45670f.png",
+    "static/media/4.png": "/scorpion_rpg/static/media/4.72a729267ea89a177d5f.png",
+    "static/media/japon.png": "/scorpion_rpg/static/media/japon.072c9cd2d5ece30b5e89.png",
+    "static/media/bmw.png": "/scorpion_rpg/static/media/bmw.8ad299b37b6b0470c76b.png",
+    "static/media/2.png": "/scorpion_rpg/static/media/2.358c346e7de1d5ac847b.png",
+    "static/media/carsShop.png": "/scorpion_rpg/static/media/carsShop.8d49cd8819c0ba72c5d5.png",
+    "static/media/1.png": "/scorpion_rpg/static/media/1.7a59054c11a04430bf2f.png",
+    "static/media/azs.png": "/scorpion_rpg/static/media/azs.6d00d0b27a747ebadd1a.png",
+    "static/media/ekx.png": "/scorpion_rpg/static/media/ekx.e30432961632d0e539c0.png",
+    "static/media/nizkie.png": "/scorpion_rpg/static/media/nizkie.5ac808a072435051a28c.png",
+    "static/media/paint.png": "/scorpion_rpg/static/media/paint.59da6e0b9fec000c723b.png",
+    "index.html": "/scorpion_rpg/index.html",
+    "main.2ec21ad3.css.map": "/scorpion_rpg/static/css/main.2ec21ad3.css.map",
+    "main.1409ad8c.js.map": "/scorpion_rpg/static/js/main.1409ad8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec21ad3.css",
+    "static/js/main.1409ad8c.js"
+  ]
+}
