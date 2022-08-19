@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/scorpion_rpg/static/css/main.2ec21ad3.css",
-    "main.js": "/scorpion_rpg/static/js/main.1b01b1f6.js",
+    "main.js": "/scorpion_rpg/static/js/main.2c4ef652.js",
     "static/media/sahta.png": "/scorpion_rpg/static/media/sahta.6e65ba1d3935e9af73fa.png",
     "static/media/pdf.pdf": "/scorpion_rpg/static/media/pdf.96900baf6bdcd302b18b.pdf",
     "static/media/bank1.png": "/scorpion_rpg/static/media/bank1.87b46db08b9d140b4016.png",
@@ -31,10 +31,10 @@
     "static/media/paint.png": "/scorpion_rpg/static/media/paint.59da6e0b9fec000c723b.png",
     "index.html": "/scorpion_rpg/index.html",
     "main.2ec21ad3.css.map": "/scorpion_rpg/static/css/main.2ec21ad3.css.map",
-    "main.1b01b1f6.js.map": "/scorpion_rpg/static/js/main.1b01b1f6.js.map"
+    "main.2c4ef652.js.map": "/scorpion_rpg/static/js/main.2c4ef652.js.map"
   },
   "entrypoints": [
     "static/css/main.2ec21ad3.css",
-    "static/js/main.1b01b1f6.js"
+    "static/js/main.2c4ef652.js"
   ]
 }
