@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/scorpion_rpg/static/css/main.2ec21ad3.css",
-    "main.js": "/scorpion_rpg/static/js/main.43cbdd80.js",
+    "main.js": "/scorpion_rpg/static/js/main.21401fa0.js",
+    "static/media/taxi.png": "/scorpion_rpg/static/media/taxi.c8d294cb831ff0c79e9e.png",
     "static/media/sahta.png": "/scorpion_rpg/static/media/sahta.6e65ba1d3935e9af73fa.png",
     "static/media/pdf.pdf": "/scorpion_rpg/static/media/pdf.96900baf6bdcd302b18b.pdf",
+    "static/media/rentcar.png": "/scorpion_rpg/static/media/rentcar.a5c89116e7ca4d8e72e7.png",
+    "static/media/pizza.png": "/scorpion_rpg/static/media/pizza.ef73d27ec77b5a9c0a44.png",
     "static/media/bank1.png": "/scorpion_rpg/static/media/bank1.87b46db08b9d140b4016.png",
     "static/media/akim.png": "/scorpion_rpg/static/media/akim.6170711a7ed4d11fcf32.png",
     "static/media/tag.png": "/scorpion_rpg/static/media/tag.92f3306819b2620471e7.png",
@@ -31,10 +34,10 @@
     "static/media/paint.png": "/scorpion_rpg/static/media/paint.59da6e0b9fec000c723b.png",
     "index.html": "/scorpion_rpg/index.html",
     "main.2ec21ad3.css.map": "/scorpion_rpg/static/css/main.2ec21ad3.css.map",
-    "main.43cbdd80.js.map": "/scorpion_rpg/static/js/main.43cbdd80.js.map"
+    "main.21401fa0.js.map": "/scorpion_rpg/static/js/main.21401fa0.js.map"
   },
   "entrypoints": [
     "static/css/main.2ec21ad3.css",
-    "static/js/main.43cbdd80.js"
+    "static/js/main.21401fa0.js"
   ]
 }
